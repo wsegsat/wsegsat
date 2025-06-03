@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Welklin Ribeiro
-- 🌱 I’m currently learning Python
 - 📫 How to reach me welklin@segsat.com
 
 <!---
